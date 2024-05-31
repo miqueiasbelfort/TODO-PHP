@@ -1,6 +1,11 @@
 # TODO LIST PHP
 * Um todo list com PHP puro usando como banco de dados o PostgreSQL
 ____
+## Preview
+
+![image](https://github.com/miqueiasbelfort/TODO-PHP/assets/79981066/f9b5d336-0530-4e4d-82e4-9aafd28f22bb)
+
+____
 
 ## Como execultar
 * Clone o repositório ``git clone https://github.com/miqueiasbelfort/TODO-PHP.git``
